@@ -1,5 +1,4 @@
-# Time-Series-Forecasting-Of-Gold-Prices-In-Python
-## **Project Presentation: Time Series Forecasting Of Gold Price and Analysis **
+# Project Presentation: Time Series Forecasting Of Gold Price and Analysis.
 
 ---
 
